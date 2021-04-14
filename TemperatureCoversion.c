@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    float Tc, Tf, Tk, n, k = 0.5555556;
+    float Tc, Tf, Tk, n, k = 0.5555555556;
 
     printf("   **WELOME TO T-CALCULATOR**\nWhat do you want to convert? \n ");
     printf("2=Tk-Tc\n 3=Tc-Tk\n 4=Tf-Tc\n 5=Tc-Tf\n 6=Tk-Tf\n 7=Tf-Tk\n");
