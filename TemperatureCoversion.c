@@ -8,7 +8,7 @@ int main()
     printf("2=Tk-Tc\n 3=Tc-Tk\n 4=Tf-Tc\n 5=Tc-Tf\n 6=Tk-Tf\n 7=Tf-Tk\n");
     scanf("%f", &n);
 
-    //from celsuis to kelvin
+    //from celsuis to kelvin.
     if (n == 2)
     {
         printf("Enter temperature in Celcuis\n");
