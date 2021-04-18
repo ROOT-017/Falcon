@@ -17,7 +17,7 @@ int main()
         printf("The temp in kelvin is:%fK", Tk);
     }
 
-    //FROM kelvin to celsius
+    //FROM kelvin to celsius...
     else if (n == 3)
     {
         printf("Enter the temperatue in kelvin\n");
