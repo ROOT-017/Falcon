@@ -23,7 +23,7 @@ int main()
         printf("Enter the temperatue in kelvin\n");
         scanf("%f", &Tk);
         Tc = (Tk - 273);
-        printf("The temperature in Celcius is:%f°c", Tc);
+        printf("The temperature in Celcius is:%.3f°c", Tc);
     }
 
     //from farenheit to celsius
