@@ -1,4 +1,5 @@
-//Simple program which  takes in the cordinate in the form (x,y) and determined the quadrant to which it is found
+//Simple program which  takes in the cordinate in the form (x,y)
+//And determined the quadrant to which it is found
 //DECLERE VARIABLE NOT WARS!! copyright©2021
 //By ROOT
 #include <stdio.h>
