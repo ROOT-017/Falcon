@@ -1,3 +1,4 @@
+//Simple program to fine the perfect number
 #include <stdio.h>
 
 int main()
