@@ -3,7 +3,7 @@
 
 int main()
 {
-    int n, i, sum = 0;
+    int n, i, sum = 0;  //n is the number to be checked, i is the counter, sum is the sum of the divisors
 
     printf("Enter a number:");
     scanf("%d", &n);
@@ -17,10 +17,10 @@ int main()
     }
     if (sum == n)
     {
-        printf("%d is Perfect Number", n);
+        printf("%d is Perfect Number", n);    //if the sum of the divisors is equal to the number, it is a perfect number
     }
     else
     {
-        printf("%d is not Perfect Number ", n);
+        printf("%d is not Perfect Number ", n);  //if the sum of the divisors is not equal to the number, it is not a perfect number
     }
 }
